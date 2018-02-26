@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<OSCInputGroup>
+  <oscMessage>/myo1</oscMessage>
+  <numInputs>11</numInputs>
+  <groupName>Inputs</groupName>
+  <inputNames>
+    <string>myo1-1</string>
+    <string>myo1-2</string>
+    <string>myo1-3</string>
+    <string>myo1-4</string>
+    <string>myo1-5</string>
+    <string>myo1-6</string>
+    <string>myo1-7</string>
+    <string>myo1-8</string>
+    <string>myo1-9</string>
+    <string>myo1-10</string>
+    <string>myo1-11</string>
+  </inputNames>
+</OSCInputGroup>
