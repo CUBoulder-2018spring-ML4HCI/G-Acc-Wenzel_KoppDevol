@@ -1,6 +1,6 @@
 # Accessible Vehicle Control Project
 
-###### Markus Hudobnik and Eli Kopp-Devol
+###### Max Wenzel and Eli Kopp-Devol
 
 ### Goals
 * The goal of this project was to simulate the control of a "vehicle" or general method of transportation in a way that is accessible for someone with a dissability while still allowing that person to exersise part of their body. Specifically we wanted to use the flexing of different muscles to send various signals to the "vehicle" so that a person with control of any part of their body could still move about while exersising that part of their body. To do so we used a Myo armband to read EMG signals and mapped an outstretched flexed hand position to an impulse increase in velocity with constant decay. This allowed the user to increase velocity by repeatedly flexing their hand and then allowed them to stop rapidly by "breaking" their wrist (bent 90˚ with fingers pointing down). The rotation of the arm controlls direction of travel. 
