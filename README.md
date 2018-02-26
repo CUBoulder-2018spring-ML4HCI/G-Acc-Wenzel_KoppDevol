@@ -24,12 +24,12 @@
 * Stop/Go (Classifier)
   - KNN(1): 
   - KNN(3): 
-  - Boosted Stump:47.59% Fit
-  - Boosted Tree: 98.99% Fit
+  - Boosted Stump:Fit
+  - Boosted Tree:  Fit
 
 
 ### Possible Improvements
-* There a number of possible improvements that could be made to the existing program, the most significant of which 
+* There a number of possible improvements that could be made to the existing program, the most significant of which allowing for the selection of different modes. There is a lot of data that the Myo band collects which we are not using at all, including pitch and yaw of the armband, as well as many other recognizable hand gestures and acceleration data on any of the previously stated data. Using another hand gesture for instance, the user could be allowed to switch betwee, slow, medium, fast, and reverse speeds or could even control speed using the pitch of the band. It would also be bennificial to dig into the EMG data more to figure out exactly which signals are causing which response so that the noise can be filtered out and the difference between the "stop" gesture and "go" gesture could be better refined.  
 
 
 
